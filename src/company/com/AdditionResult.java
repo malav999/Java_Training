@@ -23,9 +23,9 @@ public class AdditionResult {
                 System.out.println("\n\nInvalid input");
                 System.out.println("\nEnter the number in given range (1-10)");
                 input();
-            } else {
-                add(a, b);
             }
+
+            add(a, b);
         }
 
         public static void add(int a, int b){

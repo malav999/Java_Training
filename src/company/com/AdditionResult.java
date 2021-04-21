@@ -24,7 +24,6 @@ public class AdditionResult {
                 System.out.println("\nEnter the number in given range (1-10)");
                 input();
             }
-
             add(a, b);
         }
 

@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Pyramid {
     public static void main(String[] args) {
-        System.out.println("Enter no of rows to form right angle triangle");
+        System.out.println("Enter no of rows to form Pascals triangle");
         Scanner sc = new Scanner(System.in);
         int rows = sc.nextInt();
         int spaces = rows;
